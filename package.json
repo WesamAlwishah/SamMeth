@@ -1,0 +1,15 @@
+{
+  "name": "sammeth",
+  "version": "1.0.0",
+  "description": "sam meth good",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sam",
+    "meth"
+  ],
+  "author": "wesam alwishah",
+  "license": "ISC"
+}
